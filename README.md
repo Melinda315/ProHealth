@@ -5,7 +5,12 @@ This repository contains a implementation of our "Hybrid Language Model and Diff
 ## Environment Setup
 
 1. Pytorch 1.12.1
+
 2. Python 3.7.15
+
+3. torchdiffeq
+
+   pip install torchdiffeq
 
 ### Run
 
